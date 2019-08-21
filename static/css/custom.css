@@ -1,0 +1,55 @@
+body {
+    background: #FFD000;
+}
+
+.top-navigation {
+    background: #921A26 !important;
+}
+
+.site-header {
+    border-top: solid 1em #921A26;
+}
+
+.site-header a {
+    opacity: 1;
+}
+
+.title-info {
+    background-image: url("../img/carrousel.png");
+    background-size: contain;
+    height: 120px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-top: 40px;
+}
+
+.title-info a {
+    visibility: hidden;
+}
+
+.menu {
+    visibility:hidden;
+}
+
+.entry-sidebar {
+    display: none;
+}
+
+.category-header {
+    visibility: hidden;
+}
+
+.entry-content {
+    padding: 2em;
+}
+
+.custom-card {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.footer-title {
+    opacity: 1;
+}
