@@ -9,7 +9,7 @@ git config --global user.name "carrouselbot"
 git config --global push.default simple
 
 rm -rf deployment
-git clone -b master https://github.com/ErikDeSmedt/carrousel deployment
+git clone -b master https://github.com/ErikDeSmedt/carrousel-prod deployment
 rsync -av --delete --exclude ".git" public/ deployment
 cd deployment
 git add -A
