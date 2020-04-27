@@ -1,3 +1,12 @@
 [submodule "themes/hugo-tracks-theme"]
 	path = themes/hugo-tracks-theme
 	url = https://github.com/ageekymonk/hugo-tracks-theme
+[submodule "themes/hugo-webslides"]
+	path = themes/hugo-webslides
+	url = https://github.com/RCJacH/hugo-webslides.git
+[submodule "hugograyscale"]
+	path = hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git
+[submodule "themes/hugograyscale"]
+	path = themes/hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git

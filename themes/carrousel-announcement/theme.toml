@@ -1,0 +1,10 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "carrousel-announcement"
+license = "MIT"
+homepage = "http://www.carrouselschilde.be"
+
+[author]
+  name = "Erik De Smedt"
+  homepage = "http://www.carrouselschilde.be"

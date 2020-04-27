@@ -1,0 +1,47 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0 0 45px;
+    padding: 0 0 0 0;
+}
+
+
+footer {
+    position: absolute;
+
+    left: 0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+
+    background-color: #fff;
+    opacity: 0.75;
+}
+
+section {
+    padding-top: 5em;
+    padding-bottom: 5em;
+    text-align: left;
+}
+
+.section-box {
+    background-color: #FFFFFF;
+    padding: 1em;
+    opacity: 0.80;
+    border-radius: 0.5em;
+    box-shadow: 3px 3px #88888860;
+}
+
+
+#background {
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-color: #0FF;
+    background-image: url("/img/background.png");
+    background-position: center;
+    background-repeat: repeat;
+}

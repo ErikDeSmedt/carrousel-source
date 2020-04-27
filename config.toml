@@ -1,34 +1,16 @@
-baseurl = "https://erikdesmedt.github.io/carrousel"
+baseurl = "http://www.carrouselschilde.be/"
 title = "Carrousel - Zomeravonden"
-theme = "hugo-tracks-theme"
-languageCode = "be-en"
+theme = "carrousel-announcement"
+languageCode = "en-us"
 canonifyUrls = true
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-  # Use custom.css for your custom styling
-  style = "default"
-  pages = false
-  description = "Carrousel Zomeravonden 2019"
-  copyright = "&copy;2019 Carrousel vzw"
-  sidebarAbout = [
-    "Muziek en gezelligheid in het parkske",
-    ""
-  ]
+  description = "Carrousel Zomeravonden"
 
+[Author]
+  name = "Carrousel VZW"
+  email = "erikdesmedt@gmail.com"
 
-
-  # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "/"
-
-  [[params.navlinks]]
-  name = "Bands"
-  url = "/bands/"
-
-  [[params.navlinks]]
-  name = "Route"
-  url = "/route/"
-
-  [params.social]
-  facebook      = "http://www.facebook.com/carrouselschilde"
+[Social]
+  facebook = "carrousel"

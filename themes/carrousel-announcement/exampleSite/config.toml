@@ -1,0 +1,15 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Carrousel Zomeravonden 2020"
+theme = "carrousel-announcement"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "A port of the Grayscale theme to Hugo"
+
+[Author]
+    name = "Erik De Smedt"
+    email = "contact@erikdesmedt.be"
+
