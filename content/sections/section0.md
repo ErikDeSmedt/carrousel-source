@@ -2,7 +2,7 @@
 title: "Header"
 ---
 
-# Geen klassieke Carrousel in 2020 💔😔. Wel een extra Carrousel-avond in 2021!🥳
+# Geen klassieke Carrousel in 2020. Wel een extra Carrousel-avond in 2021!
 
 Lieve mensen
 
