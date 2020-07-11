@@ -1,19 +1,39 @@
 {{- define "main" }}
+<div id="main-content" class="container">
 
-{{- $sections := $.Site.GetPage "/sections" }}
-<div id="background"></div>
-<div id="main-content">
-    {{ range $ind, $elem := (sort $sections.Resources ".Params.weight") }}
-    <section id="section-{{ $ind }}" class="section">
-        <div class="container section-box">
-            <div class="row">
-                <div class="col-lg-8 mx-auto">
-                    {{ default "" $elem.Content }}
-                </div>
+    <section class="section text-center">
+        <img class="logo-img" src="/img/logo.png">
+    </section>"
+
+    <section class="section">
+        <div class="row ">
+            <div class="py-4 col-lg-6">
+                <a href="/quiz/">
+                    <div class="activity-pane" style="background-image: url('/img/godon.jpg')">
+                        <div class="activity-description">
+                             <h3>Muzikale Quiz met live-band </h3>
+                             <p>Vrijdag 7 Augustus 2020</p>
+                         </div>
+                   </div>
+                </a>
+            </div>
+            <div class="py-4 col-lg-6">
+                <a href="/concert">
+                    <div class="activity-pane" style="background-image: url('/img/hans_mortelmans.jpg')">
+                        <div class="activity-description">
+                            <h3>Concert Hans Mortelmans en Groep </h3>
+                            <p>Vrijdag 8 Augustus 2020</p>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
     </section>
-    {{ end }}
-</div>
 
+    <section id="section" class="section">
+        <div class="p-4 section-box">
+            {{.Content}}
+        </div>
+    </section>
+</div>
 {{end}}

@@ -1,16 +1,49 @@
 baseurl = "http://www.carrouselschilde.be/"
 title = "Carrousel - Zomeravonden"
 theme = "carrousel-announcement"
-languageCode = "en-us"
+languageCode = "nl-be"
 canonifyUrls = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   description = "Carrousel Zomeravonden"
+  inschrijving_quiz_url = "http://www.dit_is_een_test_link.blah"
+  inschrijving_concert_url = "http://dit_is_een_concert_test_link"
 
 [Author]
   name = "Carrousel VZW"
   email = "erikdesmedt@gmail.com"
 
-[Social]
-  facebook = "carrousel"
+[menu]
+    [[menu.main]]
+    identifier = "Home"
+    name = "Start"
+    url = "/"
+    weight = 10
+
+    [[menu.main]]
+    identifier = "quiz"
+    name = "Quiz"
+    url = "/quiz/"
+    weight = 20
+
+    [[menu.main]]
+    identifier = "concert"
+    name = "Concert"
+    url = "/concert/"
+    weight = 30
+
+   [[menu.main]]
+    identifier = "inschrijven"
+    name = "Inschrijven"
+    url = "/inschrijven/"
+    weight = 40
+
+    [[menu.main]]
+    identifier = "locatie"
+    name = "Locatie"
+    url = "/locatie/"
+    weight = 50
+
+ [markup.goldmark.renderer]
+unsafe= true

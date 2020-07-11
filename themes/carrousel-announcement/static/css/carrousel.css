@@ -4,44 +4,95 @@ html {
 }
 
 body {
-    margin: 0 0 45px;
+    margin: 0 0 0 0;
     padding: 0 0 0 0;
 }
 
 
 footer {
-    position: absolute;
-
-    left: 0;
-    bottom: 0;
-    height: 40px;
-    width: 100%;
-
     background-color: #fff;
-    opacity: 0.75;
 }
 
-section {
-    padding-top: 5em;
-    padding-bottom: 5em;
+.section {
     text-align: left;
 }
 
 .section-box {
-    background-color: #FFFFFF;
-    padding: 1em;
-    opacity: 0.80;
+    background-color: rgba(256, 256, 256, 0.8);
     border-radius: 0.5em;
     box-shadow: 3px 3px #88888860;
+    opacity: 1.0;
 }
 
+.section-box img {
+    width: 100%;
+    margin-bottom: 2em;
+}
 
-#background {
-    position: fixed;
+.bg-red {
+    background-color: #8a1825;
+}
+
+.nav-link {
+    color : #FFFFFF !important;
+}
+
+.nav-link .active {
+    font-weight: bold;
+}
+
+.bg-pattern {
+    position: absolute;
+
     min-width: 100%;
     min-height: 100%;
+    margin-top: 0px;
     background-color: #0FF;
     background-image: url("/img/background.png");
     background-position: center;
     background-repeat: repeat;
+}
+
+.activity-pane {
+    position: relative;
+    max-height: 300px;
+    height: 300px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.full-screen {
+    width: 100%;
+    min-height: 100%;
+
+    position: relative;
+}
+
+.activity-description {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+
+    padding: 1em;
+
+    background-color: #8a1825;
+    color: #FFFFFF;
+
+    opacity: 0.80;
+}
+
+.logo-img {
+    margin-top: 3em;
+    width: 75%;
+}
+
+.partner {
+    list-style: none;
+}
+
+.partner > img {
+    height: 75px;
+    margin: 1em;
 }
