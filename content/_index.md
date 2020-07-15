@@ -8,7 +8,7 @@ description: "Carrousel Zomeravonden"
 
 # Carrousel draait ook in 2020
 
-Ook in 2020 zal onze Carrousel naar jaarlijkse gewoonte een rondje draaien. In het weekend van 7 en 8 Augustus brengen we sfeer, gezelligheid en muziek naar ons geliefde [parkske](/locatie/). Dit jaar zal je niet dansen maar neem je plaats op gezellige picknickbanken waar je samen met je familie of vrienden een plekje kan reserveren.
+Ook in 2020 zal onze Carrousel naar jaarlijkse gewoonte een rondje draaien.  Op vrijdag 7 en zaterdag 8 Augustus brengen we sfeer, gezelligheid en muziek naar ons geliefde [parkske](/locatie/). Dit jaar zal je niet dansen maar neem je plaats op gezellige picknickbanken waar je samen met je familie of vrienden een plekje kan reserveren.
 
 Op **vrijdag avond 7 augustus** houden we niet zomaar een quiz! We spelen in openlucht ('t Parkske) en Carrousel zou Carrousel niet zijn zonder live muziek! Daarom wordt de quiz ondersteund door een live gelegenheidsband. Verwacht je aan muziek-, cultuur- en algemene vragen.
 Volledig coronaproof: op reservatie, bediening aan tafel, bubbels van 6, contactloos betalen en naast alcoholgel ook drinkbare alcohol beschikbaar. ')
