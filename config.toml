@@ -7,8 +7,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   description = "Carrousel Zomeravonden"
-  inschrijving_quiz_url = "http://www.dit_is_een_test_link.blah"
+  inschrijving_quiz_url = "https://forms.gle/cgXKXWmr5rXV8ADJ9"
   inschrijving_concert_url = "http://dit_is_een_concert_test_link"
+
 
 [Author]
   name = "Carrousel VZW"
@@ -27,16 +28,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     url = "/quiz/"
     weight = 20
 
+#    [[menu.main]]
+#    identifier = "concert"
+#    name = "Concert"
+#    url = "/concert/"
+#    weight = 30
+#
     [[menu.main]]
-    identifier = "concert"
-    name = "Concert"
-    url = "/concert/"
-    weight = 30
-
-   [[menu.main]]
     identifier = "inschrijven"
     name = "Inschrijven"
-    url = "/inschrijven/"
+    url = "https://forms.gle/cgXKXWmr5rXV8ADJ9"
     weight = 40
 
     [[menu.main]]
