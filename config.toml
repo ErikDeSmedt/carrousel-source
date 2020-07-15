@@ -1,4 +1,4 @@
-baseurl = "http://www.carrouselschilde.be/"
+baseurl = "http://carrouselschilde.be/"
 title = "Carrousel - Zomeravonden"
 theme = "carrousel-announcement"
 languageCode = "nl-be"
