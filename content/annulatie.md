@@ -2,7 +2,7 @@
 title: "Header"
 ---
 
-# Geen klassieke Carrousel in 2020 💔😔. Wel een extra Carrousel-avond in 2021!🥳
+# Geen klassieke Carrousel in 2020. Wel een extra Carrousel-avond in 2021!
 
 Lieve mensen
 
@@ -16,7 +16,7 @@ Wel blijven we gemotiveerd om ‘iets’ te organiseren komende zomer. We bekijk
 
 Als we in 2020 geen alternatief kunnen organiseren, kijken we verder vooruit. In 2021 is er een extra dinsdag in augustus, vijf in het totaal, en zullen we er staan met een extra sterk programma. We beloven jullie alvast dat de zomer van 2021 er één wordt om nooit te vergeten.
 
-In tussentijd: zorg voor jezelf. Zorg voor elkaar. Enkel zo komen we erdoor. 
+In tussentijd: zorg voor jezelf. Zorg voor elkaar. Enkel zo komen we er samen erdoor. 
 
 Het Carrousel-team
 
