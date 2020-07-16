@@ -4,6 +4,7 @@
         {{ partial "head.html" . }}
     </head>
     <body id="page-top" class="bg-pattern">
+        <script>0</script> <!-- Firefox bug flash of unstyled content -->
         {{- partial "navbar.html" . -}}
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}
