@@ -1,10 +1,21 @@
 {{ define "main"  }}
-    <h1>Posts</h1>
-    {{ range .Pages  }}
-        <article>
-            <h2>{{ .Title  }}</h2>
-            {{ .Content  }}
-        </article>
-        {{ end  }}
+    <div id="main-content" class="container">
+    <section class="section pt-4">
+        <div class="row text-center center-block justify-content-center">
+            {{range .Pages}}
+                <div class="pb-4 col-lg-6">
+                    <a href="{{.Permalink}}">
+                        <div class="activity-pane" style="background-image: url('{{.Params.activity_pane}}')">
+                            <div class="activity-description">
+                                <h3>{{.Description}}</h3>
+                                <p>{{.Params.tijdstip}}</p>
+                             </div>
+                       </div>
+                    </a>
+                </div>
+            {{end}}
+        </div>
+     </section>
+    </div>
 {{ end }}
 

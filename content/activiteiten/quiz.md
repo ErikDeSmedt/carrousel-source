@@ -1,6 +1,9 @@
 ---
 title: "Quiz"
-date: 2020-07-10T00:13:38+02:00
+date: 2020-07-16T15:18:37+02:00
+description:  "Quiz met live-muziek"
+activity_pane: "/img/quiz.jpg"
+tijdstip : "Vrijdag avond 7 Augustus"
 ---
 
 # Quiz met live-muziek

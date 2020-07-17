@@ -5,32 +5,28 @@
         <img class="logo-img" src="/img/logo.png" alt="Carrousel op vrijdag 7 en zaterdag 8 augustus">
     </section>"
 
-    <section class="section">
-        <div class="row text-center center-block justify-content-center">
-            <div class="pb-4 col-lg-6">
-                <a href="/quiz/">
-                    <div class="activity-pane" style="background-image: url('/img/quiz.jpg')">
-                        <div class="activity-description">
-                            <h3>Muzikale Quiz met live-band </h3>
-                             <p>Vrijdag 7 Augustus 2020</p>
-                         </div>
-                   </div>
-                </a>
+    {{with .Site.GetPage "/activiteiten"}}
+        <section class="section pt-4">
+            <div class="row text-center center-block justify-content-center">
+                {{range .Pages}}
+                    {{$coltag := "col-lg-6"}}
+                    {{if eq .Params.panel_size "wide"}}
+                        {{$coltag = "col-lg-12 large-pane"}}
+                    {{end}}
+                    <div class="pb-4 {{$coltag}}">
+                        <a href="{{.Permalink}}">
+                            <div class="activity-pane" style="background-image: url('{{.Params.activity_pane}}')">
+                                <div class="activity-description">
+                                    <h3>{{.Description}}</h3>
+                                    <p>{{.Params.tijdstip}}</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                {{end}}
             </div>
-            <!--
-            <div class="pb-4 col-lg-6">
-                <a href="/concert">
-                    <div class="activity-pane" style="background-image: url('/img/hans_mortelmans.jpg')">
-                        <div class="activity-description">
-                            <h3>Concert Hans Mortelmans en Groep </h3>
-                            <p>Vrijdag 8 Augustus 2020</p>
-                        </div>
-                   </div>
-               </a>
-            </div>
-            -->
-        </div>
-    </section>
+        </section>
+    {{end}}
     <section id="section" class="section">
         <div class="p-4 section-box">
             {{.Content}}
