@@ -4,7 +4,7 @@ date: 2020-07-16T15:18:30+02:00
 description:  "Veston"
 activity_pane: "/img/veston.jpg"
 tijdstip : "Zaterdagmiddag 8 Augustus"
-draft : True
+draft : false
 ---
 
 {{< figure src="/img/veston.jpg">}}

@@ -2,14 +2,14 @@ baseurl = "https://carrouselschilde.be/"
 title = "Carrousel - Zomeravonden"
 theme = "carrousel-announcement"
 languageCode = "nl-be"
-canonifyUrls = true
+canonifyUrls = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   description = "Carrousel Zomeravonden"
   inschrijving_quiz_url = "https://forms.gle/cgXKXWmr5rXV8ADJ9"
-  inschrijving_toots_url = "http://dit_is_een_concert_test_link"
-  inschrijving_veston_url = "http://dit_is_een_concert_test_link"
+  inschrijving_toots_url = "https://forms.gle/977nFiECiUMNDVbu9"
+  inschrijving_veston_url = "https://forms.gle/W6o2a7Se9WRA43cs7"
 
 
 [Author]
@@ -38,7 +38,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[menu.main]]
     identifier = "inschrijven"
     name = "Inschrijven"
-    url = "https://forms.gle/cgXKXWmr5rXV8ADJ9"
+    url = "/inschrijven"
     weight = 40
 
     [[menu.main]]

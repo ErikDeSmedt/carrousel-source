@@ -14,4 +14,4 @@ Op **vrijdag avond 7 augustus** houden we niet zomaar een quiz! We spelen in ope
 Volledig coronaproof: op reservatie, bediening aan tafel, bubbels van 6, contactloos betalen en naast alcoholgel ook drinkbare alcohol beschikbaar. 
 [Inschrijven]({{<param inschrijving_quiz_url>}}) kost 30 EUR voor een team van maximaal 6 personen. Je inschrijving is pas definitief zodra we je betaling hebben ontvangen en we je een bevestigingsmail hebben verstuurd.
 
-Ook op **zaterdag 8 augustus** voorzien muzikaal plezier. Meer info volgt!
+Ook op **zaterdag 8 augustus** is muzikaal plezier voorzien. In de namiddag ontvangen we [Veston](/activiteiten/veston) die Kempische teksten met Zuiderse klanken combineert. Later op de avond volgt de Schildense muzikant Eric met [What a Wonderful Toots](/activiteiten/what_a_wonderful_toots).

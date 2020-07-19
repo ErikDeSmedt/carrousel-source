@@ -5,7 +5,7 @@ description:  "What a wonderful Toots"
 activity_pane: "/img/toots.jpg"
 tijdstip : "Zaterdag avond 7 Augustus"
 panel_size: "wide"
-draft : True
+draft : false
 ---
 
 {{< figure src="/img/toots.jpg">}}
