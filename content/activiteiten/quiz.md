@@ -3,7 +3,7 @@ title: "Quiz"
 date: 2020-07-16T15:18:37+02:00
 description:  "Quiz met live-muziek"
 activity_pane: "/img/quiz.jpg"
-tijdstip : "Vrijdag avond 7 Augustus"
+tijdstip : "Vrijdagavond 7 Augustus"
 ---
 
 # Quiz met live-muziek
@@ -23,7 +23,4 @@ Neen de organisatie aanvaard geen cash-geld. We vragen met aandrang om met Payco
 
 ### Is dat wel veilig?
 De carrousel organisatie doet zijn uiterste best om ervoor te zorgen dat je gezond naar huis kan gaan. De quiz gaat door in openlucht, de tafels staan voldoende ver uit elkaar en er is bediening (met mondmasker) aan tafel. Daarom krijgt ons evenement ook groen licht van de overheid.
-
-### Wat valt er te winnen? 
-Een grote prijzentafel waar iedereen een prijs kan kiezen. Hoe organiseer je dat op een veilige manier? Wij hebben de oplossing niet gevonden. Daarom belonen we ieder team op het einde van de avond met een live-concert. De drie sterkste ploegen krijgen daar nog een mooie prijs bovenop.
 

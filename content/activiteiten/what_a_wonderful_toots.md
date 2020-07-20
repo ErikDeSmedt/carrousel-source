@@ -3,7 +3,7 @@ title: "What_a_wonderful_toots"
 date: 2020-07-16T15:18:23+02:00
 description:  "What a wonderful Toots"
 activity_pane: "/img/toots.jpg"
-tijdstip : "Zaterdag avond 7 Augustus"
+tijdstip : "Zaterdagavond 7 Augustus"
 panel_size: "wide"
 draft : false
 ---
