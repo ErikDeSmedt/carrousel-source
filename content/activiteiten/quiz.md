@@ -16,10 +16,10 @@ De quiz gaat door aan ['t Parkske](/locatie/) in Schilde. Het terrein is toegank
 [Inschrijven]({{<param inschrijving_quiz_url>}}) kost 30 EUR voor een team van maximaal 6 personen. Je inschrijving is pas definitief als je betaling voltooid is en je een bevestigingsmail hebt ontvangen.
 
 ### Is het een muziek-quiz?
-Neen, het geen muziek-quiz maar een muzikale quiz. De vragen zullen gevarieerd zijn maar het is de muziek tussen de verschillende rondes door die de quiz uniek maakt.
+Neen, het is geen muziek-quiz maar een muzikale quiz. De vragen zullen gevarieerd zijn maar het is de muziek tussen de verschillende rondes door die de quiz uniek maakt.
 
 ### Kan ik cash betalen?
-Neen de organisatie aanvaard geen cash-geld. We vragen met aandrang om met Payconiq te betalen.
+Neen de organisatie aanvaardt geen cash-geld. We vragen met aandrang om met Payconiq te betalen.
 
 ### Is dat wel veilig?
 De carrousel organisatie doet zijn uiterste best om ervoor te zorgen dat je gezond naar huis kan gaan. De quiz gaat door in openlucht, de tafels staan voldoende ver uit elkaar en er is bediening (met mondmasker) aan tafel. Daarom krijgt ons evenement ook groen licht van de overheid.

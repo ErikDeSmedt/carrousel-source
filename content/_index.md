@@ -16,6 +16,7 @@ Ook op zaterdag 8 augustus is muzikaal plezier voorzien. In de namiddag ontvange
  What a wonderful Toots start om 20u45 en zal met, een half uur pauze, spelen tot 22u45.
 
  Hieronder nog even de geldende coronamaatregelen:
+
  - Verplichte digitale inschrijving vooraf (max. 240 bezoekers, wees dus snel!)
  - Tafels voor een bubbel van maximum 6 personen
  - Behalve aan de tafels, houd je altijd 1,5 meter afstand. Zet een mondmasker op als je toch dichter komt
