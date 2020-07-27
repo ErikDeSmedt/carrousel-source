@@ -5,29 +5,7 @@
         <img class="logo-img" src="/img/logo.png" alt="Carrousel op vrijdag 7 en zaterdag 8 augustus">
     </section>"
 
-    {{with .Site.GetPage "/activiteiten"}}
-        <section class="section pt-4">
-            <div class="row text-center center-block justify-content-center">
-                {{range .Pages}}
-                    {{$coltag := "col-lg-6"}}
-                    {{if eq .Params.panel_size "wide"}}
-                        {{$coltag = "col-lg-12 large-pane"}}
-                    {{end}}
-                    <div class="pb-4 {{$coltag}}">
-                        <a href="{{.Permalink}}">
-                            <div class="activity-pane" style="background-image: url('{{.Params.activity_pane}}')">
-                                <div class="activity-description">
-                                    <h3>{{.Description}}</h3>
-                                    <p>{{.Params.tijdstip}}</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                {{end}}
-            </div>
-        </section>
-    {{end}}
-    <section id="section" class="section">
+   <section id="section" class="section">
         <div class="p-4 section-box">
             {{.Content}}
         </div>

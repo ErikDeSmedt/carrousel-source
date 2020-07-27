@@ -24,24 +24,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 10
 
     [[menu.main]]
-    identifier = "quiz"
-    name = "Quiz"
-    url = "/activiteiten/quiz/"
-    weight = 20
-
-#    [[menu.main]]
-#    identifier = "concert"
-#    name = "Concert Veston"
-#    url = "/activiteiten/veston/"
-#    weight = 30
-
-    [[menu.main]]
-    identifier = "inschrijven"
-    name = "Inschrijven"
-    url = "/inschrijven"
-    weight = 40
-
-    [[menu.main]]
     identifier = "locatie"
     name = "Locatie"
     url = "/locatie/"
