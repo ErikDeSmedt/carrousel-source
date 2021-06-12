@@ -18,5 +18,5 @@ Het inschrijvingsgeld doneren aan vzw Wannakam (dragen we in ons hart via de mam
 
 Wij blijven de komende weken vooral in ons kot en richten onze pijlen helemaal op de zomer van 2021. Hopelijk kunnen we jullie dan terug op een normale manier ontvangen in ‘t Parkske.
 
-Stay safe!
+Hou het veilig!
 
