@@ -7,6 +7,8 @@ activity_pane: /img/bands/les_truttes.jpeg
 tijdstip: 31 Augustus 2021
 ---
 
+<img src="/img/bands/les_truttes.jpeg">
+
 # Les Truttes - 30 Augustus
 
 En de laatste groep is dé coverband bij uitstek, één groot feest op ons podium. We zijn enorm trots dat ze eindelijk bij ons komen optreden:
