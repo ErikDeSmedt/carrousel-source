@@ -2,7 +2,7 @@
     <div id="main-content" class="container">
     <section class="section pt-4">
         <div class="row text-center center-block justify-content-center">
-            {{range .Pages}}
+            {{range .Pages.ByDate}}
                 <div class="pb-4 col-lg-6">
                     <a href="{{.Permalink}}">
                         <div class="activity-pane" style="background-image: url('{{.Params.activity_pane}}')">

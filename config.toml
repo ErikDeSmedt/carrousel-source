@@ -24,11 +24,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     weight = 10
 
     [[menu.main]]
+    identifier = "bands"
+    name = "Bands"
+    url = "/bands"
+    weight = 20
+
+
+
+    [[menu.main]]
     identifier = "locatie"
     name = "Locatie"
     url = "/locatie/"
     weight = 50
-
 
 
 [markup.goldmark.renderer]
