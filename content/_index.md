@@ -5,7 +5,7 @@ copyright: "Carrousel VZW"
 description: "Carrousel Zomeravonden"
 ---
 
-# Geen feestweekend 7-8 augustus
+# Geen feestweekend 7-8 augustus 2020
 
 De tweede coronagolf slaat sneller en harder toe dan we hadden verwacht en gehoopt. Gezien de huidige maatregelen (max. 10 vaste contacten gedurende 4 weken) worden bubbels van 6 voor Carrousel moeilijk. De ploeg waarmee je inschreef voor de quiz of de vrienden waarmee je naar een concert zou komen, zijn immers niet noodzakelijk de 10 vaste contacten die je nu moet kiezen. We merken ook dat de kracht van het virus exponentieel toeneemt, vooral in en rond Antwerpen. Daardoor hebben we
 sterke twijfels om binnen twee weken probleemloos zoveel mensen samen te brengen in ‘t Parkske. 
