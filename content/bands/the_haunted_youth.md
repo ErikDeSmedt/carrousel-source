@@ -1,7 +1,7 @@
 ---
 title: The Haunted Youth
 date: 2021-08-10
-description: 10 Augustus
+description: The Haunted Youth
 weight: 800
 activity_pane: /img/bands/haunted_youth.jpg
 tijdstip: 10 Augustus 2021
