@@ -92,7 +92,9 @@ footer {
     list-style: none;
 }
 
-.partner > img {
+.partner img {
     height: 75px;
     margin: 1em;
 }
+
+
